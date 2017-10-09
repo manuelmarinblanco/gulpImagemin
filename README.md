@@ -18,3 +18,5 @@ https://docs.npmjs.com/getting-started/fixing-npm-permissions
     
     Don't forget changing the permissions of your project folder
     sudo chown -R yourUsername /routeToYourProjectFolder
+
+To run, from the project folder, simply type: gulp
