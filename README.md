@@ -10,3 +10,8 @@ https://docs.npmjs.com/getting-started/fixing-npm-permissions
     sudo chown -R yourUsername /usr/local/bin
     sudo chown -R yourUsername /usr/local/lib/node_modules/
     sudo chown -R yourUsername /usr/local/share/
+
+    sudo chown -R yourUsername /usr/yourUsername/node_modules
+    
+    From the project folder, without sudo:
+    npm install --save-dev gulp-imagemin 
