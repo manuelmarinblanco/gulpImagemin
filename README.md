@@ -15,3 +15,6 @@ https://docs.npmjs.com/getting-started/fixing-npm-permissions
     
     From the project folder, without sudo:
     npm install --save-dev gulp-imagemin 
+    
+    Don't forget change the permissions of your project folder
+    sudo chown -R yourUsername /routeToYourProjectFolder
